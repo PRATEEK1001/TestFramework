@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite name : Smoke" duration-ms="39011" started-at="2019-03-16T07:54:29Z" finished-at="2019-03-16T07:55:08Z">
+  <suite name="Suite name : Smoke" duration-ms="40321" started-at="2019-03-16T21:14:50Z" finished-at="2019-03-16T21:15:30Z">
     <groups>
     </groups>
-    <test name="Test Name : My TestNG practices" duration-ms="39011" started-at="2019-03-16T07:54:29Z" finished-at="2019-03-16T07:55:08Z">
+    <test name="Test Name : My TestNG practices" duration-ms="40321" started-at="2019-03-16T21:14:50Z" finished-at="2019-03-16T21:15:30Z">
       <class name="com.demo.test.Demo">
-        <test-method status="PASS" signature="initilizeSuite()[pri:0, instance:com.demo.test.Demo@77cd7a0]" name="initilizeSuite" is-config="true" duration-ms="437" started-at="2019-03-16T07:54:29Z" finished-at="2019-03-16T07:54:29Z">
+        <test-method status="PASS" signature="initilizeSuite()[pri:0, instance:com.demo.test.Demo@1a968a59]" name="initilizeSuite" is-config="true" duration-ms="546" started-at="2019-03-16T21:14:49Z" finished-at="2019-03-16T21:14:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initilizeSuite -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.demo.test.Demo@77cd7a0]" name="beforeMethod" is-config="true" duration-ms="34149" started-at="2019-03-16T07:54:30Z" finished-at="2019-03-16T07:55:04Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.demo.test.Demo@1a968a59]" name="beforeMethod" is-config="true" duration-ms="35739" started-at="2019-03-16T21:14:50Z" finished-at="2019-03-16T21:15:25Z">
           <params>
             <param index="0">
               <value>
@@ -32,15 +32,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.demo.test.Demo@77cd7a0]" name="login" duration-ms="296" started-at="2019-03-16T07:55:04Z" finished-at="2019-03-16T07:55:04Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.demo.test.Demo@1a968a59]" name="login" duration-ms="106" started-at="2019-03-16T21:15:25Z" finished-at="2019-03-16T21:15:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demo.test.Demo@77cd7a0]" name="afterMethod" is-config="true" duration-ms="4512" started-at="2019-03-16T07:55:04Z" finished-at="2019-03-16T07:55:08Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.demo.test.Demo@1a968a59]" name="afterMethod" is-config="true" duration-ms="4427" started-at="2019-03-16T21:15:26Z" finished-at="2019-03-16T21:15:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="cleanUpSuites()[pri:0, instance:com.demo.test.Demo@77cd7a0]" name="cleanUpSuites" is-config="true" duration-ms="656" started-at="2019-03-16T07:55:09Z" finished-at="2019-03-16T07:55:09Z">
+        <test-method status="PASS" signature="cleanUpSuites()[pri:0, instance:com.demo.test.Demo@1a968a59]" name="cleanUpSuites" is-config="true" duration-ms="561" started-at="2019-03-16T21:15:30Z" finished-at="2019-03-16T21:15:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUpSuites -->
